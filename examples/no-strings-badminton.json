@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://openactive.io/",
+    "https://openactive.io/ns-beta"
+  ],
+  "type": "Brand",
+  "name": "No Strings Badminton",
+  "description": "60 minutes of 'you time' on a badminton court – time to socialise, to de-stress, to keep fit, to compete, to challenge yourself.
+Whatever your reason for joining like minded people on court, No Strings Badminton is our hugely popular 'pay and play' initiative that continues to delight players.
+Designed to suit around your schedule, you’ll come off that court feeling fantastic whether you’ve won, lost or drawn.
+It’s a weekly appointment you’ll want to put in your diary and keep.",
+  "logo": {
+    "type": "ImageObject",
+    "url": "https://www.openactive.io/programmes/examples/no-strings-badminton.jpg"
+  },
+  "url": "https://www.badmintonengland.co.uk/play/court-time-we-put-our-name-to/no-strings-badminton/",
+  "beta:video": "https://www.youtube.com/watch?v=kk1LpIFvJs4",
+  "license": "https://creativecommons.org/licenses/by/4.0/"
+}
