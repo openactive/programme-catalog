@@ -3,7 +3,8 @@
     "https://openactive.io/",
     "https://openactive.io/ns-beta"
   ],
-  "type": "Brand",
+  "@type": "Brand",
+  "@id": "https://openactive.io/programme-catalog/examples/back-to-netball.json",
   "name": "Back to Netball",
   "description": "Running across England since 2010, over 60,000 women have taken part in Back to Netball and realised the benefits of getting involved.  From losing weight, developing the body’s cardiovascular system and improving muscle tone, taking part in Back to Netball is great for you in so many ways.\r\n\r\nBack to Netball sessions are running across England and provide women of all ages with a gentle re-introduction to the sport.  Run by passionate and enthusiastic coaches, sessions cover the basics of the game including passing, footwork and shooting.  Sessions finish with a friendly game to put the skills you have learnt into practice.\r\n\r\nYou don’t need any special kit, just clothes that you feel comfortable exercising in and trainers ideally that lace up. Make sure you bring some water and that you’ve had a snack a couple of hours before hand, something like our lovely sponsors Mrs Crimbles flapjacks or a banana so you’ve got plenty of energy.",
   "logo": {
