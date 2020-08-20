@@ -1,6 +1,6 @@
 # OpenActive Programme Data Directory
 
-This repository powers the [Programme Data Directory](https://openactive.io/programme-catalog/).
+This repository powers the [OpenActive Programme Data Directory](https://openactive.io/programme-catalog/).
 
 ## Introduction
 Structured programmes, which are represented using the [`Brand`](https://openactive.io/modelling-opportunity-data/#adding-programmes-schema-brand-) type, are [included in the Modelling Opportunity Data 2.0 specification](https://openactive.io/modelling-opportunity-data/#programmes-and-brands).
