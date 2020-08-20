@@ -5,8 +5,10 @@ Structured programmes, which are represented using the [`Brand`](https://openact
 
 Programmes are a great way for you to associate recognised brands with opportunities. They appear alongside the activity listing, and do not replace the other fields that you are publishing. For example: for a specific "Back to Netball" regular session, you might have already included a photo of the regular group of attendees as part of the `EventSeries` or `SessionSeries`, so that the session feels approachable - as per the OpenActive recommendation. Adding an additional `programme id` and associated details will also link a description of "Back to Netball" as a wider intiative, and include the "Back to Netball" logo.
 
-## Usage
+## Example Usage
 Programmes and this [Programme Catalogue](https://openactive.io/programme-catalog/) are featured in the Gladstone OpenActive Implementation and associated documentation.
+
+![Example Usage](example-usage.png)
 
 ## Contribution
 To add programme data to this catalogue, simply add new rows to the table in the [`index.md`](index.md) file.
