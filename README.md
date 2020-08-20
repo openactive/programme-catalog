@@ -1,5 +1,7 @@
 # OpenActive Programme Data Directory
 
+This repository powers the [Programme Data Directory](https://openactive.io/programme-catalog/).
+
 ## Introduction
 Structured programmes, which are represented using the [`Brand`](https://openactive.io/modelling-opportunity-data/#adding-programmes-schema-brand-) type, are [included in the Modelling Opportunity Data 2.0 specification](https://openactive.io/modelling-opportunity-data/#programmes-and-brands).
 
@@ -11,4 +13,4 @@ Programmes and this [Programme Data Directory](https://openactive.io/programme-c
 ![Example Usage](example-usage.png)
 
 ## Contribution
-To add programme data to this catalogue, simply add new rows to the table in the [`index.md`](index.md) file.
+To add programme data to this catalogue, simply add new rows to the table in the [`index.md`](index.md) file. It is published via GitHub pages automatically from the `master` branch.
